@@ -10,9 +10,9 @@
   - Residente en **_Argentina_**.
 
 - **_Para nuestra tienda tomamos como referencias los siguientes sitios_**
-  - (Digital House)[https://www.digitalhouse.com/ar]
+  - [**_Digital House_**](https://www.digitalhouse.com/ar)
     > Por su facíl navegación   
-  - (Globant)[https://www.globant.com/es/our-work]
+  - [**_Globant_**](https://www.globant.com/es/our-work)
     > Información localizada y concisa
 
 - **_Este proyecto esta realizado con la colaboración de los siguientes miembros:_**
