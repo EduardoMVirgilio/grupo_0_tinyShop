@@ -1,1 +1,1 @@
-# grupo_0_tinyShop
+# Grupo 0 - Tiny Shop
