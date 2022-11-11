@@ -6,7 +6,7 @@
 
 - **_Nuestro consumidor final presenta las siguientes caracteristicas:_** 
   - Una franja etaria de: **_25 a 30 años_**.
-  - Pertenece a un nivel socio economico: **_C3 an adelante_** [**Referencia**](https://cloudfront-us-east-1.images.arcpublishing.com/infobae/CGXHDIXO2ZBBZMRMTD7UQPNN3Q.jpg)
+  - Pertenece a un nivel socio economico: **_C3 en adelante_** [**Referencia**](https://cloudfront-us-east-1.images.arcpublishing.com/infobae/CGXHDIXO2ZBBZMRMTD7UQPNN3Q.jpg)
   - Residente en **_Argentina_**.
 
 - **_Para nuestra tienda tomamos como referencias los siguientes sitios_**
